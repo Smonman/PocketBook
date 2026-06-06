@@ -1,0 +1,16 @@
+PocketBook
+Copyright 2026 Simon Josef Kreuzpointner
+
+The Initial Developer of lib/pico-lfs/pico_lfs.c and lib/pico-lfs/pico_lfs.h, 
+is Timo Kokkonen (tjko@iki.fi).
+Copyright 2024 Timo Kokkonen. All Rights Reserved.
+
+The Initial Developer of lib/littlefs/lfs_util.c, lib/littlefs/lfs_util.h, 
+lib/littlefs/lfs.c and lib/littlefs/lfs.h, 
+is The littlefs authors.
+Copyright (c) 2022, The littlefs authors.
+Copyright (c) 2017, Arm Limited. All rights reserved.
+
+The Initial Developer of .gitattributes, 
+is Alexander Karatarakis and contributors.
+Copyright (c) 2015-2026 Alexander Karatarakis
